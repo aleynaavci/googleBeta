@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+header {
+    margin-bottom: auto;
+}
+
+table {
+    border: 0;
+    width: 90%;
+    margin: auto;
+}
+
+.topBox {
+    background-color: #eeeeee;
+    width: 1208px;
+    height: 60;
+}
+
+.box1 {
+    background-color: #7EE5DA;
+    margin: auto;
+    width: 37%;
+}
+
+.box2 {
+    background-color: #70ccc2;
+    font-size: small;
+}
+
+.box3 {
+    background-color: #62B3AA;
+    font-size: small;
+}
